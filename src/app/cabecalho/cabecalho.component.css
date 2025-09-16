@@ -33,4 +33,12 @@ nav a {
     font-size: 17px;
     color: white;
     flex: 1;
+    cursor: pointer;
+    text-align: center;
+}
+
+nav a:hover {
+    color: rgb(37, 37, 37);
+    font-weight: bolder;
+    background-color: white;
 }
